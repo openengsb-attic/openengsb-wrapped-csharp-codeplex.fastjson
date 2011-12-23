@@ -25,8 +25,8 @@
   <description>DLL wrapped</description>
   <licenses>
     <license>
-      <name>Apache 2.0</name>
-        <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <name>GNU Library General Public License (LGPL)</name>
+        <url>http://fastjson.codeplex.com/license</url>
         <distribution>repo</distribution>
     </license>
   </licenses>
