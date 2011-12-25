@@ -55,7 +55,7 @@
             <configuration>
               <artifacts>
                 <artifact>
-                  <file>${project.basedir}/src/main/bin/fastjson.dll</file>
+                  <file>${project.basedir}/src/main/bin/fastJSON.dll</file>
                   <type>dll</type>
                 </artifact>
               </artifacts>
