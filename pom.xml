@@ -37,7 +37,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.openengsb.wrapped.csharp</groupId>
   <artifactId>codeplex.fastjson</artifactId>
-  <version>1.9.6_1</version>
+  <version>1.9.6_2-SNAPSHOT</version>
   <packaging>pom</packaging>
   <build>
     <plugins>
