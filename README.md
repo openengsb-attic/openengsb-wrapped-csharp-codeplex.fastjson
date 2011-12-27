@@ -1,0 +1,1 @@
+Wrapped DLL of http://fastjson.codeplex.com/ for Maven Central
