@@ -40,7 +40,6 @@
   <artifactId>fastJSON</artifactId>
   <version>1.9.6_1-SNAPSHOT</version>
   <packaging>pom</packaging>
-
   <build>
     <plugins>
       <plugin>
