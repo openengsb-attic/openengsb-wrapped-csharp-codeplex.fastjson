@@ -26,7 +26,7 @@
 
   <groupId>org.openengsb.wrapped.csharp</groupId>
   <artifactId>fastJSON</artifactId>
-  <version>1.9.6_2-SNAPSHOT</version>
+  <version>1.9.6_2</version>
   <packaging>pom</packaging>
 
   <name>OpenEngSB :: Maven Wrapped CSharp DLL :: codeplex.fastjson</name>
